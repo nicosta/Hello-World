@@ -1,2 +1,2 @@
 # Hello-World
-First repository created as a test
+First repository created as a test.
